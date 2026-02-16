@@ -7,7 +7,7 @@ Usa este checklist para marcar las páginas que ya has visitado y analizado.
 - [ ] [Terrer Lab (MIT)](https://terrerlab.com/)
 - [ ] [The Steve Jobs Archive](https://www.stevejobsarchive.com/)
 - [ ] [Akaaboune Lab](https://sites.lsa.umich.edu/akaaboune-lab/)
-- [ ] [Nexomics](https://www.nexomics.com/)
+- [x] [Nexomics](https://www.nexomics.com/)
 - [ ] [Srivatsan Lab](https://www.srivatsanlab.org/)
 - [ ] [NASA Science](https://science.nasa.gov/)
 - [ ] [Broad Institute](https://www.broadinstitute.org/)
