@@ -1,42 +1,53 @@
-# ✅ Checklist: Lanzamiento de Web para Grupo de Investigación
+# 📋 Seguimiento de Referencias: Diseño Web de Investigación
 
-Este checklist garantiza que el sitio web cumpla con los estándares de diseño moderno, rigor académico y accesibilidad.
+Usa este checklist para marcar las páginas que ya has visitado y analizado.
 
----
+## 🏛️ Categoría 1: Los "Top-Tier" (Impacto Visual)
+- [ ] [The Francis Crick Institute](https://www.crick.ac.uk/)
+- [ ] [Terrer Lab (MIT)](https://terrerlab.com/)
+- [ ] [The Steve Jobs Archive](https://www.stevejobsarchive.com/)
+- [ ] [Akaaboune Lab](https://sites.lsa.umich.edu/akaaboune-lab/)
+- [ ] [Nexomics](https://www.nexomics.com/)
+- [ ] [Srivatsan Lab](https://www.srivatsanlab.org/)
+- [ ] [NASA Science](https://science.nasa.gov/)
+- [ ] [Broad Institute](https://www.broadinstitute.org/)
+- [ ] [Wyss Institute](https://wyss.harvard.edu/)
+- [ ] [The Deep](https://the-deep.org/)
 
-## 🎨 1. Diseño y UI (Interfaz de Usuario)
-- [ ] **Paleta de Tintes:** ¿Se han definido tintes suaves (opacidad 5-10%) para los fondos de los componentes/tarjetas?
-- [ ] **Bento Grid:** ¿La sección de "Proyectos" o "Equipo" utiliza una cuadrícula moderna y organizada?
-- [ ] **Tipografía:** ¿Es legible? (Se recomienda una Sans Serif para el cuerpo y una Serif elegante para títulos).
-- [ ] **Imágenes de Alta Resolución:** ¿Cuentas con fotos reales del laboratorio, trabajo de campo o micrografías? (Evitar stock genérico).
-- [ ] **Modo Oscuro/Claro:** ¿El diseño es cómodo de leer en ambas modalidades?
-- [ ] **Micro-interacciones:** ¿Los botones y tarjetas tienen efectos sutiles al pasar el cursor (hover)?
+## 🍱 Categoría 2: Estilo "Bento" y Minimalistas (Estructura)
+- [ ] [Michigan Lab Sites (Directorio)](https://sites.lsa.umich.edu/wordpress-site-list/labs/)
+- [ ] [Yale School of Medicine Labs](https://medicine.yale.edu/about/a-to-z-index/atoz/lab-websites/)
+- [ ] [Aton Lab](https://sites.lsa.umich.edu/aton-lab/)
+- [ ] [Berridge Lab](https://sites.lsa.umich.edu/berridge-lab/)
+- [ ] [3D Tumor Lab (Yale)](https://medicine.yale.edu/lab/3d-tumor-lab/)
+- [ ] [Abujarad Digital Health](https://medicine.yale.edu/lab/abujarad/)
+- [ ] [Addy Lab](https://medicine.yale.edu/lab/addy/)
+- [ ] [C. Shan Xu Lab](https://medicine.yale.edu/lab/shan-xu/)
+- [ ] [Chen Liu Lab](https://medicine.yale.edu/lab/chen-liu/)
+- [ ] [Child Wellbeing Research](https://medicine.yale.edu/lab/strambler/)
 
-## 📝 2. Contenido Científico
-- [ ] **Abstracts Claros:** ¿Cada proyecto tiene un resumen breve escrito para no expertos?
-- [ ] **Sección de Publicaciones:** ¿Está actualizada y permite filtrar por año o temática?
-- [ ] **Impacto (Métricas):** ¿Se muestran cifras clave? (Ej: número de papers, citas, patentes o estudiantes graduados).
-- [ ] **Equipo:** ¿Cada miembro tiene su foto, biografía corta y enlaces a ORCID/Google Scholar?
-- [ ] **Noticias/Blog:** ¿Hay una sección para anunciar premios, conferencias o nuevos hallazgos?
+## 🌍 Categoría 3: Referentes en España y Latinoamérica
+- [ ] [Lequia UdG](https://www.lequia.udg.edu/)
+- [ ] [Irbio](https://www.ub.edu/irbio/es)
+- [ ] [ADN Institut](https://adninstitut.com/)
+- [ ] [Codirisc](https://codirisc.com/)
+- [ ] [AQR-Lab](http://www.aqr-lab.org/)
+- [ ] [SciELO](https://scielo.org/)
+- [ ] [Redalyc](https://www.redalyc.org/)
 
-## 🛠️ 3. Funcionalidad y UX (Experiencia de Usuario)
-- [ ] **Navegación Intuitiva:** ¿El menú principal tiene máximo 5-6 secciones?
-- [ ] **Buscador:** ¿Los usuarios pueden buscar palabras clave dentro de las publicaciones?
-- [ ] **Llamado a la Acción (CTA):** ¿Es fácil encontrar cómo contactar al grupo o aplicar para una vacante/PhD?
-- [ ] **Responsive:** ¿El sitio se ve y funciona perfecto en dispositivos móviles?
-- [ ] **Velocidad de Carga:** ¿Las imágenes están optimizadas (WebP) para que la página cargue en menos de 2 segundos?
+## 💻 Categoría 4: Estilo Tech e Interactivo (Modernidad)
+- [ ] [PhET Interactive Simulations](https://phet.colorado.edu/)
+- [ ] [Active Theory](https://activetheory.net/)
+- [ ] [Humaan](https://humaan.com/)
+- [ ] [From Fauna](https://fromfauna.com/)
+- [ ] [Relume](https://www.relume.io/)
+- [ ] [Linkademic](https://linkademic.com/)
+- [ ] [Nikita Ghodke](https://www.nikitaghodke.com/)
 
-## 🔒 4. SEO y Aspectos Técnicos
-- [ ] **SEO Académico:** ¿Están configurados los meta-datos para que Google Scholar indexe el sitio?
-- [ ] **Accesibilidad (WCAG):** ¿El contraste de color es suficiente y las imágenes tienen texto alternativo (Alt-text)?
-- [ ] **Favicon:** ¿Has subido el logo del grupo o de la institución en formato pequeño para la pestaña del navegador?
-- [ ] **Enlaces Externos:** ¿Todos los links a revistas (Nature, Science, etc.) se abren en una pestaña nueva?
-- [ ] **Certificado SSL:** ¿El sitio tiene el candado de seguridad (HTTPS)?
-
-## 🤝 5. Identidad Institucional
-- [ ] **Logos Oficiales:** ¿Están presentes los logos de la universidad o los entes financiadores (Grants)?
-- [ ] **Agradecimientos:** ¿Se mencionan las fuentes de financiamiento de forma clara?
-- [ ] **Aviso Legal:** ¿Cumple con las normativas de protección de datos (GDPR/LOPD) si recolectas correos?
-
----
-*Checklist generado para el diseño de páginas de investigación de alto impacto.*
+## 🎨 Categoría 5: Repositorios de Inspiración (Galerías)
+- [ ] [Awwwards - Science](https://www.awwwards.com/websites/science-education/)
+- [ ] [Lapa Ninja](https://www.lapa.ninja/)
+- [ ] [SiteInspire](https://www.siteinspire.com/)
+- [ ] [Dribbble Laboratory](https://dribbble.com/search/website-laboratory)
+- [ ] [Webflow Showcase](https://webflow.com/made-in-webflow/laboratory)
+- [ ] [Mobbin (UI Patterns)](https://mobbin.com/)
